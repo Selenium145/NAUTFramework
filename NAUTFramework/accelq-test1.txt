@@ -1,0 +1,7 @@
+Invoke Browser1. Passed
+Input:
+URL: https://qbank.accelq.com
+TestLoginAction2. Passed
+TestLogOutAction3. Failed
+Test Report
+2 of 2

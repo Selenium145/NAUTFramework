@@ -1,0 +1,7 @@
+Invoke Browser1. Passed
+Input:
+URL: https://qbank.accelq.com
+Action_Login_ss2. Passed
+Input_LogOut_ss3. Passed
+Test Report
+2 of 2

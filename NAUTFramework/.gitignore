@@ -1,0 +1,10 @@
+logs
+target/surefire-reports
+target/maven-status
+target/Json
+target/generated-test-sources
+target/generated-sources
+target/cucumber-reports
+target/cucumber-report-html
+test-output
+/target/
